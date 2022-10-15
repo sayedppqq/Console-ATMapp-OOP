@@ -1,0 +1,16 @@
+D:\OOP_Project_ATMapp\ATMapp\ATMapp\bin\Debug\net5.0\ATMapp.exe
+D:\OOP_Project_ATMapp\ATMapp\ATMapp\bin\Debug\net5.0\ATMapp.deps.json
+D:\OOP_Project_ATMapp\ATMapp\ATMapp\bin\Debug\net5.0\ATMapp.runtimeconfig.json
+D:\OOP_Project_ATMapp\ATMapp\ATMapp\bin\Debug\net5.0\ATMapp.runtimeconfig.dev.json
+D:\OOP_Project_ATMapp\ATMapp\ATMapp\bin\Debug\net5.0\ATMapp.dll
+D:\OOP_Project_ATMapp\ATMapp\ATMapp\bin\Debug\net5.0\ref\ATMapp.dll
+D:\OOP_Project_ATMapp\ATMapp\ATMapp\bin\Debug\net5.0\ATMapp.pdb
+D:\OOP_Project_ATMapp\ATMapp\ATMapp\obj\Debug\net5.0\ATMapp.csprojAssemblyReference.cache
+D:\OOP_Project_ATMapp\ATMapp\ATMapp\obj\Debug\net5.0\ATMapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP_Project_ATMapp\ATMapp\ATMapp\obj\Debug\net5.0\ATMapp.AssemblyInfoInputs.cache
+D:\OOP_Project_ATMapp\ATMapp\ATMapp\obj\Debug\net5.0\ATMapp.AssemblyInfo.cs
+D:\OOP_Project_ATMapp\ATMapp\ATMapp\obj\Debug\net5.0\ATMapp.csproj.CoreCompileInputs.cache
+D:\OOP_Project_ATMapp\ATMapp\ATMapp\obj\Debug\net5.0\ATMapp.dll
+D:\OOP_Project_ATMapp\ATMapp\ATMapp\obj\Debug\net5.0\ref\ATMapp.dll
+D:\OOP_Project_ATMapp\ATMapp\ATMapp\obj\Debug\net5.0\ATMapp.pdb
+D:\OOP_Project_ATMapp\ATMapp\ATMapp\obj\Debug\net5.0\ATMapp.genruntimeconfig.cache
