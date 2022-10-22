@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ATMapp.App
+namespace ATMapp.Domain.Interfaces
 {
-    class Class1
+    public interface IUserLogin
     {
+        void CheckUserCardNumberAndPassword();
     }
 }

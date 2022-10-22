@@ -13,13 +13,8 @@ namespace ATMapp.UI
             Console.Clear();
             Console.Title = "My ATM App";
             Console.WriteLine("Wellcome to ATM App");
-            PressEnterToContinue();
-        }
 
-        private static void PressEnterToContinue()
-        {
-            Console.WriteLine("Press enter to continue.....");
-            Console.ReadLine();
+            Utility.PressEnterToContinue();
         }
     }
 }
