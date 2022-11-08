@@ -31,7 +31,7 @@ namespace ATMapp.UI
                 }
                 catch
                 {
-                    Console.WriteLine("Invalid Input");
+                    Utility.PrintMessage("Invalid Input", false);
                 }
             }
             return default;

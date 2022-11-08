@@ -14,3 +14,5 @@ D:\OOP_Project_ATMapp\ATMapp\ATMapp\obj\Debug\net5.0\ATMapp.dll
 D:\OOP_Project_ATMapp\ATMapp\ATMapp\obj\Debug\net5.0\ref\ATMapp.dll
 D:\OOP_Project_ATMapp\ATMapp\ATMapp\obj\Debug\net5.0\ATMapp.pdb
 D:\OOP_Project_ATMapp\ATMapp\ATMapp\obj\Debug\net5.0\ATMapp.genruntimeconfig.cache
+D:\OOP_Project_ATMapp\ATMapp\ATMapp\bin\Debug\net5.0\ConsoleTables.dll
+D:\OOP_Project_ATMapp\ATMapp\ATMapp\obj\Debug\net5.0\ATMapp.csproj.CopyComplete

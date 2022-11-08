@@ -11,11 +11,15 @@ namespace ATMapp.App
     {
         static void Main(string[] args)
         {
-            AppScrean.Welcome();
-            long cardNumber = Validator.Convert<long>("Your Card Number");
-            Console.WriteLine(cardNumber);
-
-            Utility.PressEnterToContinue();
+            ATMapp atmApp = new ATMapp();
+            atmApp.InitData();
+            while (true)
+            {
+                Console.WriteLine("Press 0 to run");
+                int decision = Convert.ToInt32(Console.ReadLine());
+                if (decision == 0) atmApp.Run();
+                else break;
+            }
         }
     }
 }
